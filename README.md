@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning platform 
 - 💞️ I’m looking to collaborate on schol 
 - 📫 How to reach me from email
-- 😄 Pronouns: she/wer 
-- ⚡ Fun fact: im my futebol 
+- 😄 Pronouns: she
+- ⚡ Fun fact: im love futebol 
 
 <!---
 MARCELLALOPESA/MARCELLALOPESA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
